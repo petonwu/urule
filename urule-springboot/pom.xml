@@ -6,8 +6,8 @@
 	<artifactId>urule-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<java.version>1.7</java.version>
-		<tomcat.version>8.5.5</tomcat.version>
+		<java.version>1.8</java.version>
+		<tomcat.version>8.5.13</tomcat.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<licenses>
@@ -25,9 +25,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>https://github.com/youseries/urule.git</connection>
-		<developerConnection>https://github.com/youseries/urule.git</developerConnection>
-		<url>https://github.com/youseries/urule</url>
+		<connection>https://github.com/roger777luo/urule.git</connection>
+		<developerConnection>https://github.com/roger777luo/urule.git</developerConnection>
+		<url>https://github.com/roger777luo/urule</url>
 	</scm>
 	<organization>
 		<name>Bstek</name>
@@ -98,9 +98,9 @@
 	</distributionManagement>
 
 	<name>Urule Springboot Project</name>
-	<url>https://github.com/youseries/urule/tree/master/urule-springboot</url>
+	<url>https://github.com/roger777luo/urule/tree/master/urule-springboot</url>
 	<issueManagement>
-		<url>https://github.com/youseries/urule/issues</url>
+		<url>https://github.com/roger777luo/urule/issues</url>
 	</issueManagement>
 	<description>Urule Springboot Project</description>
 </project>

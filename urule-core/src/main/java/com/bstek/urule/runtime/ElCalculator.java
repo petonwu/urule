@@ -218,7 +218,7 @@ public class ElCalculator {
 			}else if(currentOp=='/' && msg.indexOf("by zero")!=-1){
 				result = "Infinity";
 			}else{
-				throw ex;							
+//				throw ex;
 			}
         }
         return result;

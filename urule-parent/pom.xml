@@ -21,9 +21,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>https://github.com/youseries/urule.git</connection>
-		<developerConnection>https://github.com/youseries/urule.git</developerConnection>
-		<url>https://github.com/youseries/urule</url>
+		<connection>https://github.com/roger777luo/urule.git</connection>
+		<developerConnection>https://github.com/roger777luo/urule.git</developerConnection>
+		<url>https://github.com/roger777luo/urule</url>
 	</scm>
 	<organization>
 		<name>Bstek</name>
@@ -85,6 +85,7 @@
 				</includes>
 			</resource>
 		</resources>
+
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -133,20 +134,20 @@
 		        </execution>
 		      </executions>
 		    </plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-gpg-plugin</artifactId>
-				<version>1.5</version>
-				<executions>
-					<execution>
-						<id>sign-artifacts</id>
-						<phase>verify</phase>
-						<goals>
-							<goal>sign</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>		    			
+			<!--<plugin>-->
+				<!--<groupId>org.apache.maven.plugins</groupId>-->
+				<!--<artifactId>maven-gpg-plugin</artifactId>-->
+				<!--<version>1.5</version>-->
+				<!--<executions>-->
+					<!--<execution>-->
+						<!--<id>sign-artifacts</id>-->
+						<!--<phase>verify</phase>-->
+						<!--<goals>-->
+							<!--<goal>sign</goal>-->
+						<!--</goals>-->
+					<!--</execution>-->
+				<!--</executions>-->
+			<!--</plugin>		    			-->
 		</plugins>
 	</build>
 	<distributionManagement>
@@ -161,9 +162,9 @@
 	</distributionManagement>
 
 	<name>Urule Parent Project</name>
-	<url>https://github.com/youseries/urule/tree/master/urule-parent</url>
+	<url>https://github.com/roger777luo/urule/tree/master/urule-parent</url>
 	<issueManagement>
-		<url>https://github.com/youseries/urule/issues</url>
+		<url>https://github.com/roger777luo/urule/issues</url>
 	</issueManagement>
 	<description>Urule Parent Project</description>  
 </project>

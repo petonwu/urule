@@ -66,14 +66,14 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>https://github.com/youseries/urule.git</connection>
-		<developerConnection>https://github.com/youseries/urule.git</developerConnection>
-		<url>https://github.com/youseries/urule</url>
+		<connection>https://github.com/roger777luo/urule.git</connection>
+		<developerConnection>https://github.com/roger777luo/urule.git</developerConnection>
+		<url>https://github.com/roger777luo/urule</url>
 	</scm>
 	<organization>
 		<name>Bstek</name>
 		<url>http://www.bstek.com</url>
 	</organization>	
 	<name>URule Console Project</name>
-	<url>https://github.com/youseries/urule/tree/master/urule-console</url>    
+	<url>https://github.com/roger777luo/urule/tree/master/urule-console</url>
 </project>
